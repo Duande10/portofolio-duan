@@ -31,7 +31,7 @@ body {
 .hero {
   grid-area: hero;
   min-height: 400px;
-  background-image: url(./view/img/padang.jpg);
+  background-image: url(img/padang.jpg);
   background-size: cover;
   background-position: center;
   padding: 50px;
@@ -53,13 +53,13 @@ body {
 
 .feature-1 {
   grid-area: feature-1;
-  background-image: url(./view/img/c.jpg);
+  background-image: url(img/c.jpg);
   background-size: cover;
 }
 
 .feature-2 {
   grid-area: feature-2;
-  background-image: url(./view/img/code.jpg);
+  background-image: url(img/code.jpg);
   background-size: cover;
 }
 
@@ -99,7 +99,7 @@ body {
   border-radius: 5px;
   font-size: 16px;
   background-color: white;
-  background-image: url("./view/img/cari.png");
+  background-image: url("img/cari.png");
   background-position: 4px 6px;
   background-size: 30px;
   background-repeat: no-repeat;
@@ -248,7 +248,7 @@ body {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-image: url(./view/img/image.png);
+  background-image: url(img/image.png);
   background-size: contain;
   background-position: center center;
   text-align: center;
@@ -295,7 +295,7 @@ body {
 
 /* SKILL DUAN */
 header {
-  background: url(./view/img/1.jpg) no-repeat;
+  background: url(img/1.jpg) no-repeat;
   background-blend-mode: multiply;
   background-size: cover;
   opacity: 1.1;
