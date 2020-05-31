@@ -582,7 +582,8 @@ textarea {
 
   .contact-submit {
     height: 20px;
-    line-height: 5px;
+    line-height: 5px;\
+    text-align: center;
   }
 
   footer {
