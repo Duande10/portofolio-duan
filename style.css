@@ -394,6 +394,7 @@ header .wrapper img {
 #contact {
   padding: 60px 0 0 5px;
   opacity: 0.9;
+  text-align: center;
 }
 
 #contact span {
